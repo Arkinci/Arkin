@@ -1,0 +1,30 @@
+commit d4406290b3d679aa583ac158a3bc4fd14b3f8bf2
+Author: Jawert <jawert@ucdavis.edu>
+Date:   Thu Apr 5 14:42:15 2018 -0700
+
+    Added log.txt
+
+commit 4d9866eae643859417adac1661ef637a566e8cb9
+Merge: f94f1d3 8c31aa2
+Author: Arkinci <acisharani@ucdavis.edu>
+Date:   Thu Apr 5 14:35:36 2018 -0700
+
+    Merge branch 'master' of https://github.com/Arkinci/Arkin
+
+commit f94f1d3a4ee49f44ee3728203f49330020aa43ec
+Author: Arkinci <acisharani@ucdavis.edu>
+Date:   Thu Apr 5 14:31:15 2018 -0700
+
+    Round 2
+
+commit 8c31aa242ef7f8c04be9331ca5bba2b71dd6ca73
+Author: Jawert <jawert@ucdavis.edu>
+Date:   Thu Apr 5 14:23:51 2018 -0700
+
+    Added my information
+
+commit 123af78f902268b9a9a47eb07a016da234faa0c7
+Author: Arkinci <acisharani@ucdavis.edu>
+Date:   Thu Apr 5 14:11:01 2018 -0700
+
+    first commit
